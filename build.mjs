@@ -4,7 +4,7 @@ import path from 'node:path';
 
 const OUT = 'dist';
 const MAIL = 'zuhudegou@gmail.com';
-const GH = 'https://github.com/flurorantimonic-acid';
+const GH = 'https://github.com/Fluoro-Antimonic-Acid';
 
 const NAV = [
   { href: '/', label: '首页', key: 'home' },
@@ -260,9 +260,9 @@ ${dsecC('下一步', `<ul class="todo">
   <li>完成电机参数整定文档</li>
 </ul>`)}
 ${dsec('代码与文档', `<ul class="links">
-  <li><a href="https://github.com/flurorantimonic-acid/Acid_Motor" target="_blank" rel="noopener">Acid_Motor ↗</a></li>
-  <li><a href="https://github.com/flurorantimonic-acid/Acid_Motor_Library" target="_blank" rel="noopener">Acid_Motor_Library ↗</a></li>
-  <li><a href="https://github.com/flurorantimonic-acid/Acid_Motor_Doc" target="_blank" rel="noopener">Acid_Motor_Doc ↗</a></li>
+  <li><a href="https://github.com/Fluoro-Antimonic-Acid/Acid_Motor" target="_blank" rel="noopener">Acid_Motor ↗</a></li>
+  <li><a href="https://github.com/Fluoro-Antimonic-Acid/Acid_Motor_Library" target="_blank" rel="noopener">Acid_Motor_Library ↗</a></li>
+  <li><a href="https://github.com/Fluoro-Antimonic-Acid/Acid_Motor_Doc" target="_blank" rel="noopener">Acid_Motor_Doc ↗</a></li>
 </ul>`)}
 </div>`,
 });
@@ -451,7 +451,7 @@ ${dsecC('已知限制', `<ul class="mini">
   <li>仅在 Z30 与 OPPO 上验证，其他机型兼容性未知。</li>
 </ul>`)}
 ${dsec('代码与许可', `<ul class="links">
-  <li><a href="https://github.com/flurorantimonic-acid/Shotdeck" target="_blank" rel="noopener">Shotdeck ↗</a></li>
+  <li><a href="https://github.com/Fluoro-Antimonic-Acid/Shotdeck" target="_blank" rel="noopener">Shotdeck ↗</a></li>
 </ul>
 <p style="margin-top:18px">原创代码采用 GNU GPL v3.0 或更新版本。项目是独立开发的第三方工具，与 Nikon 无隶属关系。</p>`)}
 `,
@@ -472,7 +472,7 @@ projects.push({
 <div class="dbody">
 ${dsec('说明', `<p>用 PCB 做的一张新年福字装饰，图形、板框和丝印都在嘉立创 EDA 专业版里完成。</p>`)}
 ${dsec('代码与文件', `<ul class="links">
-  <li><a href="https://github.com/flurorantimonic-acid/PCB-FU" target="_blank" rel="noopener">PCB-FU ↗</a></li>
+  <li><a href="https://github.com/Fluoro-Antimonic-Acid/PCB-FU" target="_blank" rel="noopener">PCB-FU ↗</a></li>
 </ul>`)}
 `,
 });
