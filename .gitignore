@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.astro/
+# full-size source fonts (large) and the font tooling venv
+fonts-src/
+.venv-fonts/
+tools/serif-chars.needed.txt
+# the repo is public: never publish the resume
+*.pdf
+*.docx
